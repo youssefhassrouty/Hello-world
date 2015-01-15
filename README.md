@@ -1,2 +1,3 @@
 # Hello-world
-That My first repository
+That my first repository
+checking how it works
